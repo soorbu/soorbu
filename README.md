@@ -66,6 +66,7 @@
 
 - 📅  **SchedulEase** – An intelligent timetable management system for educational institutions.
    - Developed using Python and genetic algorithms, SchedulEase automates the creation of class schedules by optimizing for faculty availability, room constraints, and batch-specific requirements. It features dynamic dashboards for students, teachers, and admins with real-time update capabilities.
+     Link: https://github.com/soorbu/SchedulEase.git
 
 ---
 
