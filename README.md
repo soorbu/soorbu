@@ -59,6 +59,7 @@
 
 - 💸 **Budget Manager** – A console-based personal finance tracker built with Python and MySQL.
    - This was my first hands-on programming project where I explored real-world applications of python's core concepts. The tool allows users to log income, categorize expenses, track investments, and visualize financial data using simple CLI commands and matplotlib charts.
+     Link: https://github.com/soorbu/Budget-Manager.git
 
 - 🍳 **Flavour Finder** – A recipe discovery and sharing platform focused on personalization and ease of use.
    - Built with Django, HTML, CSS, and JavaScript, it lets users search for recipes based on ingredients, dietary needs, and preferences. The platform promotes user-contributed content and a community-driven experience to enhance the way people cook and connect over food.
