@@ -2,16 +2,30 @@ name: Update Spotify Now Playing
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Runs every 5 minutes
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: kittinan/spotify-github-profile@latest
+
+      - name: Generate Spotify SVG
+        uses: kittinan/spotify-github-profile@latest
         with:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          output_file: "spotify.svg"
+
+      - name: Push to output branch
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git fetch origin
+          git switch -c output || git checkout output
+          mv spotify.svg ./spotify.svg
+          git add spotify.svg
+          git commit -m "update spotify svg" || echo "No changes to commit"
+          git push origin output
