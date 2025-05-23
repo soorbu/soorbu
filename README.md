@@ -62,6 +62,7 @@
 
 - 🍳 **Flavour Finder** – A recipe discovery and sharing platform focused on personalization and ease of use.
    - Built with Django, HTML, CSS, and JavaScript, it lets users search for recipes based on ingredients, dietary needs, and preferences. The platform promotes user-contributed content and a community-driven experience to enhance the way people cook and connect over food.
+   Link: https://github.com/soorbu/recipe_finder_project
 
 - 📅  **SchedulEase** – An intelligent timetable management system for educational institutions.
    - Developed using Python and genetic algorithms, SchedulEase automates the creation of class schedules by optimizing for faculty availability, room constraints, and batch-specific requirements. It features dynamic dashboards for students, teachers, and admins with real-time update capabilities.
