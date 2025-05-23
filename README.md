@@ -55,8 +55,6 @@
 
 ---
 
----
-
 ## 🧩 Projects
 
 - 💸 **Budget Manager** – A console-based personal finance tracker built with Python and MySQL.
