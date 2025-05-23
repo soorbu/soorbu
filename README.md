@@ -55,45 +55,18 @@
 
 ---
 
+---
+
 ## 🧩 Projects
 
-- 💸 **Budget Manager** – Console-based financial tracker using Python and SQL.  
-  This was my first Python project that got me interested in programming. This project aimed at applying core programming concepts in a practical way. It helps users track income, expenses, and investments.
+- 💸 **Budget Manager** – A console-based personal finance tracker built with Python and MySQL.
+   - This was my first hands-on programming project where I explored real-world applications of python's core concepts. The tool allows users to log income, categorize expenses, track investments, and visualize financial data using simple CLI commands and matplotlib charts.
 
-  **Key learnings:**
-  - User authentication with account creation and login  
-  - Python-MySQL database connectivity  
-  - Managing categorized income and expenses with CRUD operations  
-  - Data visualization using matplotlib for income and expense graphs  
-  - Basic encryption for user data security  
+- 🍳 **Flavour Finder** – A recipe discovery and sharing platform focused on personalization and ease of use.
+   - Built with Django, HTML, CSS, and JavaScript, it lets users search for recipes based on ingredients, dietary needs, and preferences. The platform promotes user-contributed content and a community-driven experience to enhance the way people cook and connect over food.
 
-  This project provided a strong foundation in Python, databases, and data visualization through a real-world application.
-
-- 🍳 **Flavour Finder** – A user-friendly platform to discover, organize, and share recipes tailored to individual preferences and dietary needs.  
-  Designed to provide an interactive and personalized culinary experience with advanced search and filtering options.
-
-  **Key learnings:**
-  - Building an intuitive and accessible user interface  
-  - Implementing advanced search and filtering based on ingredients and dietary preferences  
-  - Enabling user-generated content and recipe sharing features  
-  - Creating community interaction tools to enhance engagement  
-  - Organizing and managing recipe data efficiently  
-
-  This project focused on improving user experience in recipe discovery and sharing by addressing common limitations of existing platforms.
-  
-- 📅 **SchedulEase** – An intelligent timetable management system for academic institutions powered by genetic algorithms.  
-  Designed to automate and optimize complex class schedules while eliminating conflicts and reducing manual workload.
-
-  **Key learnings:**
-  - Implementing genetic algorithms for conflict-free, optimized scheduling  
-  - Factoring in room capacity, faculty availability, and batch-specific subject requirements  
-  - Creating dynamic dashboards for students, teachers, and administrators  
-  - Supporting real-time updates and rescheduling for extra classes  
-  - Ensuring seamless integration with existing campus information systems  
-
-  This project demonstrated the power of algorithmic scheduling in streamlining academic workflows and improving transparency across multi-campus institutions.
-  
-- 🧠 **Mini AI Experiments** – Playing around with basic ML models and concepts.
+- 📅  **SchedulEase** – An intelligent timetable management system for educational institutions.
+   - Developed using Python and genetic algorithms, SchedulEase automates the creation of class schedules by optimizing for faculty availability, room constraints, and batch-specific requirements. It features dynamic dashboards for students, teachers, and admins with real-time update capabilities.
 
 ---
 
