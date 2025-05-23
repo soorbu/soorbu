@@ -5,7 +5,7 @@
 
 ---
 
-### 🔭 Crrently working on:
+### 🔭 Currently working on:
 - A mini project to make life easier 💡  
 - Building my portfolio, one commit at a time 🛠️
 
