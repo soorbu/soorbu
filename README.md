@@ -1,6 +1,6 @@
 <!-- Profile README for soorbu -->
 
-<h1 align="center">Hey there! 👋 I'm Soorbu</h1>
+<h1 align="center">Hey there! 👋 I'm Surabhi</h1>
 <p align="center">🚀 Engineering student • 🧠 Lifelong learner • 💻 Code explorer • 🎨 Canva enthusiast</p>
 
 ---
