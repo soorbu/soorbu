@@ -84,9 +84,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soorbu&show_icons=true&theme=radical" alt="Soorbu's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soorbu&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soorbu&layout=compact&theme=radical" alt="Top Langs" />
 </p>
